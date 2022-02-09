@@ -196,7 +196,7 @@ Use the getAverageWordLength function below to do the following:
 function getAverageWordLength(myArray){
   let wordAvg = myArray.length;
   for (let i = 0;i < myArray.legnth;i++){
-   
+   wordAvg
   }
   wordAvg = 
 }
